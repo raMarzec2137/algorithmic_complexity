@@ -17,3 +17,4 @@ def fib2(n):
     return lst
     ```py
 ![liniowy1](https://user-images.githubusercontent.com/117570347/200165973-e43fb2b4-d7aa-4697-9d85-a50f2615f81a.jpg)
+![liniowy1](https://user-images.githubusercontent.com/117570347/200166219-3b0a724f-bae7-4935-ae18-1beba093d050.jpg)
