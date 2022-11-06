@@ -32,3 +32,16 @@ def badfib(n):
 ```
 Wzrost czasu jest wprost proporcjonalny do wzrostu wartości dla itaracyjnego , podczas gdy dla reurencyjnego wzrost jest zbyt gwałtowny.
 ![wykres](https://user-images.githubusercontent.com/117570347/200169224-906ee24f-f13c-4007-905b-6b966b7af65a.png)
+
+
+
+
+
+## Wyszukiwanie liniowe
+```py
+def where(x , dataset):
+    for index , element in enumerate(dataset):
+        if element == x:
+            return(index)       
+```            
+
